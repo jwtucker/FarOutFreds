@@ -27,7 +27,7 @@ $(document).ready(function(){
 
 
 	$('#with-my-template').gCalFlow({
-		calid: 'tuckerjeremyw@gmail.com',
+		calid: '',
 		apikey: 'AIzaSyALRJp62wy9XbHSNB_ZjhIq5eVP3tdQugI',
 		mode: 'upcoming',
 		maxitem: 12,
